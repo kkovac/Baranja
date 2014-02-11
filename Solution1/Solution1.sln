@@ -5,7 +5,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		\\SPIN-IIS\ng\servicezapredavajne\default.asp = \\SPIN-IIS\ng\servicezapredavajne\default.asp
 		..\index.html = ..\index.html
-		..\css\moj.css = ..\css\moj.css
+		..\assets\css\moj.css = ..\assets\css\moj.css
 	EndProjectSection
 EndProject
 Global
